@@ -19,6 +19,7 @@ O curos irá focar em análise estatística como média, mediana, moda, correla�
 * Média x Desvio Padrão
 * Correlação
 * Séries temporais
+* Regressão
 
 ### Tecnologias
 
@@ -27,6 +28,7 @@ O curso é totalmente desenvolvido utilizando a tecnologia Python, focando nas b
 * **Jupyter Notebook** como a principal ferramenta de desenvolvimento e apresentação
 * **Pandas** para extração, análise e tratamento dos dados
 * **Matplotlib** para plotagem dos dados
+* **Seaborn** para plotagem avançada de dispersão e regressão
 * **NumPy** para tratamento avançado de arrays para as análises
 
 ### Victor Hugo Negrisoli
