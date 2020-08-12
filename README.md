@@ -31,5 +31,21 @@ O curso é totalmente desenvolvido utilizando a tecnologia Python, focando nas b
 * **Seaborn** para plotagem avançada de dispersão e regressão
 * **NumPy** para tratamento avançado de arrays para as análises
 
+### Resultados do curso
+
+O curso foi finalizado com 94% de aproveitamento (nota final).
+
+Obtive um certificado pela IBM através da plataforma Acclaim, pode ser conferido [aqui](https://www.youracclaim.com/badges/d71baf0c-c3f0-4e65-9ece-781374874f20).
+
+O certificado da Cognitive Class pode ser conferido [aqui](https://courses.cognitiveclass.ai/certificates/d875add8469d43838665a71c3f69339f).
+
+#### Certificação da Badge Statistics 101:
+
+![Certificado IBM](https://uploaddeimagens.com.br/images/002/824/729/original/IBM_Badge_Statistics.png?1597240865)
+
+#### Certificado do curso Statistics 101 da IBM Cognitive Class
+
+![Certificado Cognitive Class](https://uploaddeimagens.com.br/images/002/824/731/original/IBM_Statistics_Cognitive_Class.png?1597240876)
+
 ### Victor Hugo Negrisoli
 ### Desenvolvedor Full-Stack Pleno & Analista de Dados
